@@ -1,0 +1,51 @@
+{
+    "id": "outlook",
+    "name": "Outlook",
+    "description": "Outlook plugin for Mattermost",
+    "version": "0.0.1",
+    "server": {
+        "executables": {
+            "linux-amd64": "server/dist/plugin-linux-amd64",
+            "darwin-amd64": "server/dist/plugin-darwin-amd64",
+            "windows-amd64": "server/dist/plugin-windows-amd64.exe"
+        }
+    },
+    "settings_schema": {
+        "header": "To set up the Outlook plugin, register a new app here: ADDAZUREAPPREGISTRATIONLINK",
+        "settings": [
+            {
+                "key": "AADClientID",
+                "display_name": "Azure Application (client) ID",
+                "type": "text",
+                "help_text": "The application/client ID for the AAD app registered with Azure."
+            },
+            {
+                "key": "AADClientSecret",
+                "display_name": "AAD Client Secret",
+                "type": "text",
+                "help_text": "The client secret for the AAD app registered with Azure."
+            },
+            {
+                "key": "Username",
+                "display_name": "User",
+                "type": "username",
+                "help_text": "Select the username of the user that the plugin will post with. This can be any user, the name and icon will be overridden when posting."
+            },
+            {
+                "key": "ChannelName",
+                "display_name": "Channel Name",
+                "type": "text",
+                "help_text": "The channel to use as part of the demo plugin, created for each team automatically if it does not exist.",
+                "placeholder": "outlook_plugin",
+                "default": "outlook_plugin"
+            },
+            {
+                "key": "EncryptionKey",
+                "display_name": "At Rest Encryption Key",
+                "type": "generated",
+                "help_text": "The AES encryption key used to encrypt stored access tokens."
+            }
+        ],
+        "footer": "* To report an issue, make a suggestion or a contribution, [ADD REPO LINK](http://google.com)."
+    }
+}
