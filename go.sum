@@ -187,8 +187,6 @@ github.com/mattermost/gorp v2.0.1-0.20190301154413-3b31e9a39d05+incompatible h1:
 github.com/mattermost/gorp v2.0.1-0.20190301154413-3b31e9a39d05+incompatible/go.mod h1:0kX1qa3DOpaPJyOdMLeo7TcBN0QmUszj9a/VygOhDe0=
 github.com/mattermost/mattermost-server v0.0.0-20190508185452-66cb36f5dc35 h1:HLdWHTfDl0zrPWSlDHbni3E7CzXT0wLlOuQ3UY83/JU=
 github.com/mattermost/mattermost-server v0.0.0-20190508185452-66cb36f5dc35/go.mod h1:Ec2Hlp4UnFHCltBVGLo/VkLoHEFrcIAXE/zTnksDzTM=
-github.com/mattermost/mattermost-server v5.9.0+incompatible h1:bUlZKAhjp7cGQRepmmsv225vbXyZaXOuVstqgpB+cE4=
-github.com/mattermost/mattermost-server v5.9.0+incompatible/go.mod h1:5L6MjAec+XXQwMIt791Ganu45GKsSiM+I0tLR9wUj8Y=
 github.com/mattermost/rsc v0.0.0-20160330161541-bbaefb05eaa0/go.mod h1:nV5bfVpT//+B1RPD2JvRnxbkLmJEYXmRaaVl15fsXjs=
 github.com/mattermost/viper v1.0.4 h1:cMYOz4PhguscGSPxrSokUtib5HrG4gCpiUh27wyA3d0=
 github.com/mattermost/viper v1.0.4/go.mod h1:uc5hKG9lv4/KRwPOt2c1omOyirS/UnuA2TytiZQSFHM=
@@ -200,8 +198,6 @@ github.com/mattn/go-sqlite3 v1.9.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOq
 github.com/mattn/go-sqlite3 v1.10.0 h1:jbhqpg7tQe4SupckyijYiy0mJJ/pRyHvXf7JdWK860o=
 github.com/mattn/go-sqlite3 v1.10.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
-github.com/mhoc/msgoraph v0.3.0 h1:3Mr0riBCDzWMdF+H2r/vEQWVihCvO1imMaVqZY/yIkk=
-github.com/mhoc/msgoraph v0.3.0/go.mod h1:R29bn9mnLTI6A9w0v7FPtmrC/cI9+cDyOpr0NcxwJKs=
 github.com/miekg/dns v1.0.14/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 github.com/miekg/dns v1.1.6/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 github.com/minio/minio-go v0.0.0-20190422205105-a8704b60278f/go.mod h1:/haSOWG8hQNx2+JOfLJ9GKp61EAmgPwRVw/Sac0NzaM=
@@ -230,8 +226,6 @@ github.com/onsi/ginkgo v1.8.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+W
 github.com/onsi/gomega v1.4.3/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
 github.com/onsi/gomega v1.5.0 h1:izbySO9zDPmjJ8rDjLvkA2zJHIo+HkYXHnf7eN7SSyo=
 github.com/onsi/gomega v1.5.0/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
-github.com/open-networks/go-msgraph v0.0.0-20190430094237-f3b8eaccf38e h1:WYNV0AVFCtNvh4a9lgUsZTlb/LG6Tdi3KatEgeXxeDk=
-github.com/open-networks/go-msgraph v0.0.0-20190430094237-f3b8eaccf38e/go.mod h1:qrAWeYL/1D4WyM9vJnTmgKMtspVODwsvgBDXgVs64Gg=
 github.com/openzipkin/zipkin-go v0.1.1/go.mod h1:NtoC/o8u3JlF1lSlyPNswIbeQH9bJTmOf0Erfk+hxe8=
 github.com/openzipkin/zipkin-go v0.1.3/go.mod h1:NtoC/o8u3JlF1lSlyPNswIbeQH9bJTmOf0Erfk+hxe8=
 github.com/openzipkin/zipkin-go v0.1.6/go.mod h1:QgAqvLzwWbR/WpD4A3cGpPtJrZXNIiJc5AZX7/PBEpw=

@@ -3,21 +3,17 @@ module github.com/mattermost/mattermost-plugin-demo
 go 1.12
 
 require (
-	github.com/blang/semver v3.5.1+incompatible
 	github.com/go-ldap/ldap v3.0.3+incompatible // indirect
 	github.com/hashicorp/go-hclog v0.9.0 // indirect
 	github.com/jkrecek/msgraph-go v0.0.0-20190328140430-9f7466d8cb1f
 	github.com/lib/pq v1.1.1 // indirect
 	github.com/mattermost/go-i18n v1.10.0 // indirect
 	github.com/mattermost/mattermost-server v0.0.0-20190508185452-66cb36f5dc35
-	github.com/mhoc/msgoraph v0.3.0
 	github.com/nicksnyder/go-i18n v1.10.0 // indirect
-	github.com/open-networks/go-msgraph v0.0.0-20190430094237-f3b8eaccf38e // indirect
 	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/spkg/bom v0.0.0-20160624110644-59b7046e48ad // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.3.0
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
 	golang.org/x/crypto v0.0.0-20190506204251-e1dfcc566284 // indirect
